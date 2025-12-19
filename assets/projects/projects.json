@@ -1,0 +1,70 @@
+[
+  {
+    "title": "FocusFlow",
+    "description": "Visibility-aware focus timer with circular progress and localStorage tracking.",
+    "thumbnail": "./assets/img/focusflow.png",
+    "link": "https://toothfocusflow.netlify.app/"
+  },
+  {
+    "title": "OutfitMate",
+    "description": "Weather-powered outfit suggestions with Open-Meteo data and mode toggles.",
+    "thumbnail": "./assets/img/outfit_mate.png",
+    "link": "https://tooth-outfitmate.netlify.app/"
+  },
+  {
+    "title": "QuickEscape",
+    "description": "Instant safe-page switch with Esc key and realistic dashboard layout.",
+    "thumbnail": "./assets/img/quickescape.png",
+    "link": "https://tooth-quickescape.netlify.app/"
+  },
+  {
+    "title": "TinyTimer",
+    "description": "Adaptive Pomodoro timer with breathing break animation and audio chime.",
+    "thumbnail": "./assets/img/tinytimer.png",
+    "link": "https://tooth-tinytim.netlify.app/"
+  },
+  {
+    "title": "HabitBloom",
+    "description": "Habit tracker where each streak grows a plant inside a soothing garden view.",
+    "thumbnail": "./assets/img/habitbloom.png",
+    "link": "https://habitbloom-tooth.netlify.app/"
+  },
+  {
+    "title": "LocalFinder",
+    "description": "Mini marketplace surfacing local services with JSON data, filters, and favorites.",
+    "thumbnail": "./assets/img/localfinder.png",
+    "link": "https://service-localfinder-tooth.netlify.app/"
+  },
+  {
+    "title": "MindClear",
+    "description": "Guided breathing with animated cues, ambient sound, and session tracking.",
+    "thumbnail": "./assets/img/mindclear.png",
+    "link": "https://tooth-mindclear.netlify.app/"
+  },
+  {
+    "title": "Weather Dashboard",
+    "description": "Real-time weather information with beautiful charts and location-based forecasts.",
+    "thumbnail": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=800&q=60",
+    "link": "mindclear/index.html"
+  },
+  {
+    "title": "Portfolio Website",
+    "description": "A modern, responsive portfolio website showcasing projects and skills with smooth animations.",
+    "thumbnail": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=800&q=60",
+    "link": "mindclear/index.html"
+  },
+  {
+    "title": "Gym website",
+    "description": "A stunning gym website that include mentorship program, about and contact us page.",
+    "thumbnail": "./assets/img/gym_website.png",
+    "link": "https://toothlessgymweb.netlify.app/"
+  },
+  {
+    "title": "Ecommerce website",
+    "description": "A stunning gym website that include mentorship program, about and contact us page.",
+    "thumbnail": "./assets/img/ecommerce.png",
+    "link": "https://ecommerce-website-with-card.netlify.app/"
+  }
+]
+
+
